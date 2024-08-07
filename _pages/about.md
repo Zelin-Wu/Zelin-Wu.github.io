@@ -18,7 +18,7 @@ This newly emerging university offers the flexibility to explore new things rath
 
 The story went as follows:
 
-[Computer Science](https://cse.sustech.edu.cn/en/) \\(\longrightarrow\\) [Data Science](https://stat-ds.sustech.edu.cn/?lang=en-us) \\(\longrightarrow\\) [Mathematics](https://math.sustech.edu.cn/?lang=en)
+[Computer Science](https://cse.sustech.edu.cn/en/) \\(\Longrightarrow\\) [Data Science](https://stat-ds.sustech.edu.cn/?lang=en-us) \\(\Longrightarrow\\) [Mathematics](https://math.sustech.edu.cn/?lang=en)
 
 The detailed story can be found in this blog. (Not available yet)
 

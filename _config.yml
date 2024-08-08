@@ -12,7 +12,7 @@ title                    : "Zelin Wu / Homepage"
 title_separator          : "-"
 name                     : &name "Zelin Wu"
 description              : &description "personal description"
-URL                      : "https://zelin-wu.github.io/"
+URL                      : https://zelin-wu.github.io/
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 

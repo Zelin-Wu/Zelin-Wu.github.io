@@ -2,10 +2,7 @@
 title: "Evolutionary Neural Networks for Option Pricing: Multi-Assets Option and Exotic Option"
 collection: publications
 permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper presents a novel framework based on the evolutionary neural network to solve the generalized Black-Scholes equation arising in the financial market efficiently
-and accurately. We first employ the evolutionary neural network to parameterize the PDE involved in option pricing into ODE. Thus we may use a standard ODE solver to solve the ODE problem. The framework is flexible and can handle various boundary conditions and
-terminal conditions, allowing customization based on specific market requirements and scenarios. Moreover, our method
-offers a reliable and deterministic solution methodology for the pricing framework, as it does not rely on stochastic training. This deterministic nature enhances the reliability and stability of our approach, making it well-suited for real-world applications in option pricing and financial markets. The experiments on multiple settings are carried out to illustrate the applicability and accuracy of the proposed framework.'
+excerpt: 'This paper proposed a novel approach called Evolutionary Neural Network to solve option pricing problems. Evolutionary Neural Network has time-variable parameters, transforming the time-dependent PDEs into ODEs and then applying a standard ODE solver to solve it. This framework is flexible with boundary conditions and can scale up to higher dimensions, allowing pricing customized options.'
 date: 2023-10-03
 venue: 'Proceedings of the AAAI Symposium Series'
 paperurl: 'http://Zelin-Wu.github.io/files/Evolutionary Neural Networks for Option Pricing.pdf'

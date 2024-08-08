@@ -18,7 +18,7 @@ Education
 
 Work experience
 ======
-* Financial Derivative Researcher Intern, 02.2024-08.2024
+* Financial Derivative Researcher Intern, \hfill 02.2024-08.2024
   * International Digital Economy Academy
   * Duties include: Research on Rough Volatility models
   * Supervisor: Zhouchi Lin

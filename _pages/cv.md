@@ -16,21 +16,25 @@ Education
 * B.S. in Mathematics, Southern University of Science and Technology, 2024
 * BISP Exchange, University of California, Berkeley, 2023
 
+Research experience
+======
+
+* balabala
+
 Work experience
 ======
 * Financial Derivative Researcher Intern:  02.2024-08.2024
   * International Digital Economy Academy
   * Duties include: Research on Rough Volatility models
-  * Supervisor: Zhouchi Lin
+  * Supervisor: [Zhouchi Lin](https://ieeexplore.ieee.org/author/37085353747)
 
   Periodic work review slides can be found at (Not available yet)
 
-* Teaching Assistant of course: Mathematical Logic: 22Spring, 22Fall,23Spring
+* Teaching Assistant of the course **Mathematical Logic**: 22Spring, 22Fall,23Spring
   * Southern University of Science and Technology
   * Duties included: Holding online office hours and grading assignments
-  * Supervisor: Jingde Cheng
+  * Supervisor: [Jingde Cheng](https://ieeexplore.ieee.org/author/37290827200)
 
-  
 Skills
 ======
 * Skill 1

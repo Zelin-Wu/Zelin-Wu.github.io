@@ -18,15 +18,17 @@ Education
 
 Work experience
 ======
-* Financial Derivative Researcher Intern  02.2024-08.2024
+* Financial Derivative Researcher Intern:  02.2024-08.2024
   * International Digital Economy Academy
   * Duties include: Research on Rough Volatility models
   * Supervisor: Zhouchi Lin
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  Periodic work review slides can be found at (Not available yet)
+
+* Teaching Assistant of course: Mathematical Logic: 22Spring, 22Fall,23Spring
+  * Southern University of Science and Technology
+  * Duties included: Holding online office hours and grading assignments
+  * Supervisor: Jingde Cheng
 
   
 Skills

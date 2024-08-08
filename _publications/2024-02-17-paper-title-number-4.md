@@ -5,7 +5,7 @@ permalink: /publication/2024-02-17-paper-title-number-4
 excerpt: 'This paper is about fixing template issue #693.'
 date: 2023-10-03
 venue: 'Proceedings of the AAAI Symposium Series'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
+paperurl: 'http://academicpages.github.io/files/Evolutionary Neural Networks for Option Pricing.pdf'
 citation: 'Li, Y., Wu, Z., & Ye, F. (2023). Evolutionary Neural Networks for Option Pricing: Multi-Assets Option and Exotic Option. <i>Proceedings of the AAAI Symposium Series</i>.'
 ---
 Li, Y., Wu, Z., & Ye, F. (2023). Evolutionary Neural Networks for Option Pricing: Multi-Assets Option and Exotic Option. Proceedings of the AAAI Symposium Series.

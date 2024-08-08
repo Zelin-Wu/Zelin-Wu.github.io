@@ -11,9 +11,10 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Applied Mathematics/ Scientific Machine Learning, Looking for a position
+* M.S. in Mathematics, University of Bonn, 2026(Expected)
+* B.S. in Mathematics, Southern University of Science and Technology, 2024
+* BISP Exchange, University of California, Berkeley, 2023
 
 Work experience
 ======

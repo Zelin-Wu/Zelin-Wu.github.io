@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+The pdf version of my CV can be found on  this link (Not available yet).
+
 Education
 ======
 * Ph.D in Applied Mathematics/ Scientific Machine Learning, Looking for a position

@@ -8,5 +8,5 @@ venue: 'Proceedings of the AAAI Symposium Series'
 paperurl: 'http://Zelin-Wu.github.io/files/Evolutionary Neural Networks for Option Pricing.pdf'
 citation: 'Li, Y., Wu, Z., & Ye, F. (2023). Evolutionary Neural Networks for Option Pricing: Multi-Assets Option and Exotic Option. <i>Proceedings of the AAAI Symposium Series</i>.'
 ---
-Li, Y., Wu, Z., & Ye, F. (2023). Evolutionary Neural Networks for Option Pricing: Multi-Assets Option and Exotic Option. Proceedings of the AAAI Symposium Series.
+
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.

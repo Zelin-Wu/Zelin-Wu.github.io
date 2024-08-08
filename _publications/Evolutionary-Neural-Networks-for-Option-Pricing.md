@@ -1,7 +1,7 @@
 ---
 title: "Evolutionary Neural Networks for Option Pricing: Multi-Assets Option and Exotic Option"
 collection: publications
-permalink: /publication/2024-02-17-paper-title-number-4
+permalink: /publication/Evolutionary-Neural-Networks-for-Option-Pricing
 excerpt: 'This paper proposed a novel approach called Evolutionary Neural Network to solve option pricing problems. Evolutionary Neural Network has time-variable parameters, transforming the time-dependent PDEs into ODEs and then applying a standard ODE solver to solve it. This framework is flexible with boundary conditions and can scale up to higher dimensions, allowing pricing customized options.'
 date: 2023-10-03
 venue: 'Proceedings of the AAAI Symposium Series'

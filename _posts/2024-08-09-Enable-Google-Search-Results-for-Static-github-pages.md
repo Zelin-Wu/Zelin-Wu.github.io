@@ -62,7 +62,7 @@ Step 2: Add a sitemap
 
 
 
-![image-20240809105127382](C:\Users\IDEA\AppData\Roaming\Typora\typora-user-images\image-20240809105127382.png)
+![image-20240809105127382](https://zelin-wu.github.io/images/google-search-add-sitemap.png)
 
 
 

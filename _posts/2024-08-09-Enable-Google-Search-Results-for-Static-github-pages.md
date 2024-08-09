@@ -2,12 +2,13 @@
 title: 'Enable Google Search Results for Static GitHub pages'
 date: 2024-08-09
 permalink: /posts/2024/08/Enable-Google-Search-Results-for-Static-github-pages/
+excerpt_separator: <!--more-->
 tags:
   - random
   - 2024
 ---
 
-After configuring the personal github.io page, it is expected that your customized pages will be found using Google search engines. However, it is not for granted and in this Blog, we'll show how to achieve this.
+After configuring the personal github.io page, it is expected that your customized pages will be found using Google search engines. However, it is not for granted and in this Blog, we'll show how to achieve this. <!--more-->
 
 Begin by testing
 ======

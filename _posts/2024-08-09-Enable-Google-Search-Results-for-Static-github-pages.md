@@ -5,9 +5,6 @@ permalink: /posts/2024/08/Enable-Google-Search-Results-for-Static-github-pages/
 tags:
   - random
 ---
-
-This is a sample blog post. Lorem ipsum I can't remember the rest of lorem ipsum and don't have an internet connection right now. Testing testing testing this blog post. Blog posts are cool.
-
 After configuring the personal github.io page, it must be expected your customized  pages could be found using the Google search engines. However, it is not for granted and in this Blog, we'll show how to achieve this.
 
 

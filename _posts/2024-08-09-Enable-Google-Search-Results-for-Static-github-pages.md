@@ -49,7 +49,7 @@ Step 1: Verify the ownership
 
 Use HTML file to verify
 
-![image-20240809104710627](C:\Users\IDEA\AppData\Roaming\Typora\typora-user-images\image-20240809104710627.png)
+![img](https://zelin-wu.github.io/images/google-search-verify-ownship.png)
 
 * Follow the instructions, download the file and then upload to your root of the Github repository.
 * Wait for a minute and have a cup of tea.

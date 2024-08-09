@@ -5,8 +5,8 @@ permalink: /posts/2024/08/Enable-Google-Search-Results-for-Static-github-pages/
 tags:
   - random
 ---
-After configuring the personal github.io page, it must be expected your customized  pages could be found using the Google search engines. However, it is not for granted and in this Blog, we'll show how to achieve this.
 
+After configuring the personal github.io page, it must be expected your customized  pages could be found using the Google search engines. However, it is not for granted and in this Blog, we'll show how to achieve this.
 
 Begin by testing
 ======
@@ -29,10 +29,6 @@ site:https://your_github_id.github.io/
 
 * But for those failed, don't worry, the following is a step-by-step tutorial to configure the Google Search Console.
 
-
-
-
-
 Step 0:  Initialize
 ======
 
@@ -47,8 +43,6 @@ Step 0:  Initialize
 ![img](https://charlesqueen.github.io/resources/p14.png)
 
 * Entering your website "https://your_github_id.github.io/" here. 
-
-
 
 Step 1: Verify the ownership
 ======

@@ -1,7 +1,7 @@
 ---
 title: 'Enable Google Search Results for Static github pages'
 date: 2024-08-09
-permalink: /posts/2012/08/blog-post-4/
+permalink: /posts/2024-08-09-Enable-Google-Search-Results-for-Static-github-pages
 tags:
   - random
 ---

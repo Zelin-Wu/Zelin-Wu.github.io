@@ -1,21 +1,22 @@
 ---
-title: 'Enable Google Search Results for Static github pages'
+title: 'Enable Google Search Results for Static GitHub pages'
 date: 2024-08-09
 permalink: /posts/2024/08/Enable-Google-Search-Results-for-Static-github-pages/
 tags:
   - random
+  - 2024
 ---
 
-After configuring the personal github.io page, it must be expected your customized  pages could be found using the Google search engines. However, it is not for granted and in this Blog, we'll show how to achieve this.
+After configuring the personal github.io page, it is expected that your customized pages will be found using Google search engines. However, it is not for granted and in this Blog, we'll show how to achieve this.
 
 Begin by testing
 ======
 
-Generally speaking, the github.io page may not be found during search. But we may first give it a try!
+Generally speaking, the github.io page may not be found during the search. But we may first give it a try!
 
 
 
-Open your google explorer and input the following 
+Open your Google Explorer and input the following 
 
 ```html
 site:https://your_github_id.github.io/
@@ -23,11 +24,11 @@ site:https://your_github_id.github.io/
 
 
 
-* In the best case, you can find your page, then we are done! (Cheers~)
+* In the best case, you can find your page.
 
 
 
-* But for those failed, don't worry, the following is a step-by-step tutorial to configure the Google Search Console.
+* But for those who failed, don't worry, the following is a step-by-step tutorial to configure the Google Search Console.
 
 Step 0:  Initialize
 ======
@@ -47,11 +48,11 @@ Step 0:  Initialize
 Step 1: Verify the ownership
 ======
 
-Use HTML file to verify
+Use an HTML file to verify
 
 ![img](https://zelin-wu.github.io/images/google-search-verify-ownship.png)
 
-* Follow the instructions, download the file and then upload to your root of the Github repository.
+* Follow the instructions, download the file, and then upload to your root of the GitHub repository.
 * Wait for a minute and have a cup of tea.
 * Click the "VERIFY" button and then you are done.
 
@@ -77,5 +78,5 @@ For other users, you may need to generate the sitemap.xml file beforehand, as th
 Step -1: Just wait
 ======
 
-You are good to go and need to wait for a couple of days to get your request processed by Google.
+You are good to go, but you need to wait a couple of days for Google to process your request.
 

@@ -4,7 +4,7 @@ date: 2024-08-09
 permalink: /posts/2024/08/Enable-Google-Search-Results-for-Static-github-pages/
 excerpt_separator: <!--more-->
 tags:
-  - random
+  - Technical Tutorial
   - 2024
 ---
 

@@ -51,7 +51,7 @@ Step 1: Verify the ownership
 
 Use an HTML file to verify
 
-![img](https://zelin-wu.github.io/images/google-search-verify-ownship.png)
+![img](https://zelin-wu.github.io/images/posts/google-search-enable/google-search-verify-ownship.png)
 
 * Follow the instructions, download the file, and then upload to your root of the GitHub repository.
 * Wait for a minute and have a cup of tea.
@@ -64,7 +64,7 @@ Step 2: Add a sitemap
 
 
 
-![image-20240809105127382](https://zelin-wu.github.io/images/google-search-add-sitemap.png)
+![image-20240809105127382](https://zelin-wu.github.io/images/posts/google-search-enable/google-search-add-sitemap.png)
 
 
 

@@ -30,3 +30,8 @@ The story went as follows:
 
 The detailed story can be found in this blog. (Not available yet)
 
+
+Visitors' Footprint Collections
+=====
+
+<a href="https://info.flagcounter.com/575G"><img src="https://s11.flagcounter.com/map/575G/size_m/txt_000000/border_CCCCCC/pageviews_0/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>

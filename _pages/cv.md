@@ -39,12 +39,17 @@ Work experience
 
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Language: English (Working Proficiency), Mandarin (Native Speaker), German (Beginner), Cantonese(Entry level)
+* Programming: Python, Java, Matlab
+* Artificial Intelligence:
+  * Machine Learning: Classification, Regression, Clustering, Dimension Reduction, Manifold Learning
+  * Deep Learning: Transformer, GAN, AutoEncoder, fine-tuning
+  * Reinforcement Learning: DQN, PPO, Actor-Critic, Hierachical RL
+* Numerical PDEs:
+  * Finite Difference, Finite Element, Finite Volume, Spectrum methods
+  * High-order schemes, Conservative schemes, CFD
+  * Data-driven methods: PINNs, DeepONet, FNO
+* Stochastics: Stochastic Calculus, Option Pricing
 
 Publications
 ======

@@ -9,11 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
-The pdf version of my CV can be found on  this link (Not available yet).
+The pdf version of my CV can be found at this link (Not available yet).
 
 Education
 ======
-* Ph.D in Applied Mathematics/ Scientific Machine Learning, Looking for a position
 * M.S. in Mathematics, University of Bonn, 2026(Expected)
 * B.S. in Mathematics, Southern University of Science and Technology, 2024
 * BISP Exchange, University of California, Berkeley, 2023
@@ -21,7 +20,7 @@ Education
 Research experience
 ======
 
-* balabala
+See the PDF version of my CV for more details
 
 Work experience
 ======

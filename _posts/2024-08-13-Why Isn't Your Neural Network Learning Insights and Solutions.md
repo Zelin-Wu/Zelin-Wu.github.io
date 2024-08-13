@@ -1,16 +1,12 @@
 ---
 title: 'Why Isn't Your Neural Network Learning? Insights and Solutions'
-date: 2024-08-09
+date: 2024-08-13
 permalink: /posts/2024/08/why-nn-not-learn/
 excerpt_separator: <!--more-->
 tags:
   - Technical Tutorial
   - 2024
 ---
-
-
-
-
 
 I recently stumbled upon a perplexing issue where my neural network, tasked with a regression problem, stubbornly learned to predict the average value of the dataset. After hours of meticulous investigation, I managed to close this issue.
 

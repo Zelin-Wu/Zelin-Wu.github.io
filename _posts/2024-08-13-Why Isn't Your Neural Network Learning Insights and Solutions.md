@@ -88,7 +88,7 @@ print(f"y.grad:{y.grad}")
 
 with the desired output
 
-```pyt
+```python
 res:0.6666666865348816
 x.grad:tensor([-0.6667,  0.0000,  0.6667])
 y.grad:tensor([ 0.6667,  0.0000, -0.6667])

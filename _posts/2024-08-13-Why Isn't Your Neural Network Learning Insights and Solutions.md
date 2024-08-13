@@ -1,5 +1,5 @@
 ---
-title: 'Why Isn't Your Neural Network Learning? Insights and Solutions'
+title: 'Why Is Not Your Neural Network Learning? Insights and Solutions'
 date: 2024-08-13
 permalink: /posts/2024/08/why-nn-not-learn/
 excerpt_separator: <!--more-->

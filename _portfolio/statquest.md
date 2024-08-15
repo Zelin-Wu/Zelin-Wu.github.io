@@ -2,6 +2,7 @@
 title: "Bilibili Media Operation - Engaging Over 38k Enthusiasts in AI Knowledge"
 excerpt: "Dedicated to sharing knowledge on artificial intelligence, our Bilibili account has captivated a community of more than 38k learners"
 collection: portfolio
+permalink: /portfolio/statquest
 ---
 
 

@@ -1,6 +1,6 @@
 ---
-title: "Bilibili Media Operation - Engaging Over 38k Enthusiasts in AI Knowledge"
-excerpt: "Dedicated to sharing knowledge on artificial intelligence, our Bilibili account has captivated a community of more than 38k learners"
+title: "Bilibili Media Operation - Engaging Over 90k Enthusiasts in AI Knowledge"
+excerpt: "Dedicated to sharing knowledge on artificial intelligence, our Bilibili account has captivated a community of more than 90k learners"
 collection: portfolio
 permalink: /portfolio/statquest/
 ---
@@ -16,7 +16,7 @@ Recognizing a gap in accessible educational content on the Chinese Internet, we 
 
 ## Achievements
 
-Our efforts have not gone unnoticed. To date, we have subtitled and translated over 30 videos, amassing a following of more than 38,000 enthusiasts with nearly 500k view counts. The account and details may be found [here](https://space.bilibili.com/3546620985608836?spm_id_from=333.337.0.0).
+Our efforts have not gone unnoticed. To date, we have subtitled and translated over 30 videos, amassing a following of more than 92,000 enthusiasts with nearly 1.5M view counts. The account and details may be found [here](https://space.bilibili.com/3546620985608836?spm_id_from=333.337.0.0).
 
 Witnessing our work's positive impact on Chinese learners is incredibly rewarding and serves as a testament to our commitment to education and community.
 
